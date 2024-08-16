@@ -17,6 +17,6 @@ This repository houses all submissions for AI assignments. Each assignment is or
 
 ## Notes
 - Check each assignment folder for specific instructions and additional materials.
-- For any queries or issues, please contact Kewal at [kewalkumarsuthar.22.it@iite.indusuni.ac.in](mailto:kewalkumarsuthar.22.it@iite.indusuni.ac.in).
+- For any queries or issues, please contact Dev at [devamdavadi.22.it@iite.indusuni.ac.in](mailto:devamdavadi.22.it@iite.indusuni.ac.in).
 
 ---
